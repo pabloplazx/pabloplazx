@@ -5,7 +5,7 @@ Apasionado por el desarrollo backend, las arquitecturas limpias y la integració
 
 🎯 **Proyecto principal:** [MusicReviews](https://github.com/pabloplazx/musicreviews) — Aplicación web tipo Letterboxd para reseñas de álbumes musicales. Stack completo Java + React, dockerizado y con CI/CD automatizado.
 
-📅 **Disponible para prácticas (FCT) a partir de septiembre de 2026.**
+Desarrollador Full-Stack · Java / Spring Boot / React · Madrid · Disponible para incorporación inmediata
 
 ## Stack técnico
 
