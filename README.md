@@ -15,6 +15,12 @@ Apasionado por el desarrollo backend, las arquitecturas limpias y la integració
 
 Aplicación web full-stack tipo Letterboxd orientada a música. Arquitectura en capas con MVC, Repository Pattern, Service Layer, DTO y Global Exception Handler. API REST con Spring Boot y autenticación JWT, frontend SPA en React, contenedorizado con Docker Compose y desplegado automáticamente con GitHub Actions.
 
+<p align="center">
+  <a href="https://zentimes.es">
+    <img src="https://img.shields.io/badge/🌐%20Demo%20en%20vivo-zentimes.es-6366f1?style=for-the-badge" />
+  </a>
+</p>
+
 | Repositorio | Descripción |
 |---|---|
 | [🔗 musicreviews](https://github.com/pabloplazx/musicreviews) | Backend — Java 21 + Spring Boot |
