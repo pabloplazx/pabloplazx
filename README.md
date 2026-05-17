@@ -1,11 +1,8 @@
-# Pablo de la Plaza
-
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma** (CFGS DAM, IES Rosa Chacel).
-Apasionado por el desarrollo backend, las arquitecturas limpias y la integración entre sistemas.
-
-🎯 **Proyecto principal:** [MusicReviews](https://github.com/pabloplazx/musicreviews) — Aplicación web tipo Letterboxd para reseñas de álbumes musicales. Stack completo Java + React, dockerizado y con CI/CD automatizado.
-
 Desarrollador Full-Stack · Java / Spring Boot / React · Madrid · Disponible para incorporación inmediata
+
+Apasionado por el desarrollo backend, arquitecturas limpias e integración entre sistemas.
+
+🎯 MusicReviews — App web tipo Letterboxd para reseñas de álbumes. Java + React, dockerizado con CI/CD automatizado.
 
 ## Stack técnico
 
