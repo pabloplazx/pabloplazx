@@ -31,13 +31,6 @@ Apasionado por el desarrollo backend, las arquitecturas limpias y la integració
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
-## Sobre mí
-
-- 🎓 Cursando DAM (CFGS, IES Rosa Chacel)
-- 📅 Realizando las prácticas (FCT) a partir de septiembre de 2026
-- 🎵 Mi TFG combina dos pasiones: programación y música
-- 🤝 Abierto a oportunidades de prácticas y primer empleo
-
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-de-la-plaza-55a716386/)
