@@ -8,18 +8,6 @@
 
 ---
 
-### 👋 Sobre mí
-
-- 🎓 &nbsp; Estudiante de **CFGS DAM** en IES Rosa Chacel, Madrid
-- 🔭 &nbsp; Desarrollando [**MusicReviews**](https://github.com/pabloplazx/musicreviews) como TFG — Letterboxd para música
-- 💻 &nbsp; Me especializo en arquitecturas limpias: MVC, Repository Pattern, Service Layer
-- 🔐 &nbsp; Seguridad: JWT, Spring Security, verificación de email, refresh tokens
-- 🐳 &nbsp; Stack dockerizado con CI/CD automatizado en GitHub Actions
-- 🌐 &nbsp; Demo en vivo: [zentimes.es](https://zentimes.es)
-- 📫 &nbsp; Contacto: [LinkedIn](https://www.linkedin.com/in/pablo-de-la-plaza-55a716386/)
-
----
-
 ### 🛠️ Stack Tecnológico
 
 **Backend**
