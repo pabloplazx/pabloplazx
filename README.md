@@ -60,15 +60,9 @@
 <h3 align="center">📈 Actividad & Racha</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contribuciones-107_en_el_último_año-090D16?style=flat-square&logo=github&logoColor=38bdf8" alt="Contribuciones" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Repositorios_Públicos-4-090D16?style=flat-square&logo=git&logoColor=38bdf8" alt="Repos" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Ubicación-Madrid%2C_España-090D16?style=flat-square&logo=googlemaps&logoColor=38bdf8" alt="Ubicación" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloplazx&theme=tokyonight&hide_border=true&background=0b0f19&fire=38bdf8&ring=38bdf8&currStreakLabel=ffffff&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pabloplazx&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true" height="150" alt="Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=pabloplazx&hide_border=true&background=0b0f19&fire=38bdf8&ring=38bdf8&currStreakLabel=ffffff&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8" height="150" alt="Streak" />
 </p>
 
 ---
