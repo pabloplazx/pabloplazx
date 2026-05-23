@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&weight=400&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=Especialista+en+arquitecturas+limpias;Backend+%C2%B7+Frontend+%C2%B7+DevOps;Construyendo+software+escalable+y+robusto" alt="Subtítulo animado" />
 </p>
 
----
+<br>
 
 ### 🛠️ Stack Tecnológico
 
@@ -44,7 +44,7 @@
 &nbsp;
 <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" />
 
----
+<br>
 
 ### 🎯 Proyecto Destacado — [MusicReviews (TFG)](https://github.com/pabloplazx/musicreviews)
 
@@ -80,7 +80,7 @@
   </a>
 </p>
 
----
+<br>
 
 ### 📬 Conectar
 
