@@ -18,40 +18,37 @@
 
 ---
 
-<h3 align="center">🎯 Proyecto Destacado</h3>
+<h3 align="center">🎯 Proyecto Destacado — <a href="https://github.com/pabloplazx/musicreviews" style="color: #ffffff; text-decoration: none;">MusicReviews (TFG)</a></h3>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr style="border: none;">
-    <td width="55%" valign="top" style="border: none; padding-right: 20px;">
-      <h3>🎵 <a href="https://github.com/pabloplazx/musicreviews" style="color: #ffffff; text-decoration: none;">MusicReviews (TFG)</a></h3>
-      <p><samp>Una aplicación web full-stack inspirada en <b>Letterboxd</b> dedicada al análisis y reseña de música. Implementa una arquitectura en capas modular y robusta para garantizar la mejor experiencia y escalabilidad.</samp></p>
-      <ul>
-        <li><samp><b>Arquitectura:</b> Capa MVC, Repository Pattern, Service Layer, DTOs y Global Exception Handler.</samp></li>
-        <li><samp><b>Seguridad:</b> Autenticación JWT con expiración dinámica y control de acceso robusto con Spring Security.</samp></li>
-        <li><samp><b>DevOps:</b> Contenedores en Docker Compose y CI/CD automatizado con GitHub Actions.</samp></li>
-      </ul>
-      <br />
-      <p align="left">
-        <a href="https://zentimes.es">
-          <img src="./button_demo.svg" alt="Live Demo" height="36" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/pabloplazx/musicreviews">
-          <img src="./button_backend.svg" alt="Backend Repo" height="36" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/pabloplazx/musicreviews-frontend">
-          <img src="./button_frontend.svg" alt="Frontend Repo" height="36" />
-        </a>
-      </p>
-    </td>
-    <td width="45%" valign="middle" align="center" style="border: none;">
-      <a href="https://github.com/pabloplazx/musicreviews">
-        <img src="./musicreviews_mockup.svg" alt="MusicReviews Mockup" width="100%" style="border-radius: 8px;" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <samp>Una aplicación web full-stack inspirada en <b>Letterboxd</b> dedicada al análisis y reseña de música. Implementa una arquitectura en capas modular y robusta para garantizar la mejor experiencia y escalabilidad.</samp>
+</p>
+
+<ul>
+  <li><samp><b>Arquitectura:</b> Capa MVC, Repository Pattern, Service Layer, DTOs y Global Exception Handler.</samp></li>
+  <li><samp><b>Seguridad:</b> Autenticación JWT con expiración dinámica y control de acceso robusto con Spring Security.</samp></li>
+  <li><samp><b>DevOps:</b> Contenedores en Docker Compose y CI/CD automatizado con GitHub Actions.</samp></li>
+</ul>
+
+<p align="center">
+  <a href="https://github.com/pabloplazx/musicreviews">
+    <img src="./musicreviews_mockup.svg" alt="MusicReviews Mockup" width="460" style="border-radius: 8px;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://zentimes.es">
+    <img src="./button_demo.svg" alt="Live Demo" height="38" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pabloplazx/musicreviews">
+    <img src="./button_backend.svg" alt="Backend Repo" height="38" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pabloplazx/musicreviews-frontend">
+    <img src="./button_frontend.svg" alt="Frontend Repo" height="38" />
+  </a>
+</p>
 
 ---
 
@@ -75,10 +72,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-de-la-plaza-55a716386/">
-    <img src="./button_linkedin.svg" alt="LinkedIn" height="36" />
+    <img src="./button_linkedin.svg" alt="LinkedIn" height="38" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pabloplazx">
-    <img src="./button_github.svg" alt="GitHub" height="36" />
+    <img src="./button_github.svg" alt="GitHub" height="38" />
   </a>
 </p>
