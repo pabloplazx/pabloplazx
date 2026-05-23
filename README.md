@@ -23,7 +23,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr style="border: none;">
     <td width="55%" valign="top" style="border: none; padding-right: 20px;">
-      <h3>🎵 MusicReviews (TFG)</h3>
+      <h3>🎵 <a href="https://github.com/pabloplazx/musicreviews" style="color: #ffffff; text-decoration: none;">MusicReviews (TFG)</a></h3>
       <p><samp>Una aplicación web full-stack inspirada en <b>Letterboxd</b> dedicada al análisis y reseña de música. Implementa una arquitectura en capas modular y robusta para garantizar la mejor experiencia y escalabilidad.</samp></p>
       <ul>
         <li><samp><b>Arquitectura:</b> Capa MVC, Repository Pattern, Service Layer, DTOs y Global Exception Handler.</samp></li>
@@ -33,15 +33,15 @@
       <br />
       <p align="left">
         <a href="https://zentimes.es">
-          <img src="https://img.shields.io/badge/🌐%20Demo%20en%20Vivo-090D16?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Live Demo" />
+          <img src="./button_demo.svg" alt="Live Demo" height="36" />
         </a>
         &nbsp;&nbsp;
         <a href="https://github.com/pabloplazx/musicreviews">
-          <img src="https://img.shields.io/badge/💻%20Backend-090D16?style=flat-square&logo=github&logoColor=38bdf8" alt="Backend Repo" />
+          <img src="./button_backend.svg" alt="Backend Repo" height="36" />
         </a>
         &nbsp;&nbsp;
         <a href="https://github.com/pabloplazx/musicreviews-frontend">
-          <img src="https://img.shields.io/badge/🎨%20Frontend-090D16?style=flat-square&logo=github&logoColor=38bdf8" alt="Frontend Repo" />
+          <img src="./button_frontend.svg" alt="Frontend Repo" height="36" />
         </a>
       </p>
     </td>
@@ -75,10 +75,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-de-la-plaza-55a716386/">
-    <img src="https://img.shields.io/badge/LinkedIn-090D16?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+    <img src="./button_linkedin.svg" alt="LinkedIn" height="36" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/pabloplazx">
-    <img src="https://img.shields.io/badge/GitHub-090D16?style=flat-square&logo=github&logoColor=38bdf8" alt="GitHub" />
+    <img src="./button_github.svg" alt="GitHub" height="36" />
   </a>
 </p>
