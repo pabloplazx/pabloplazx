@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github_profile_banner.svg" alt="Pablo De La Plaza" width="100%" />
+  <img src="https://raw.githubusercontent.com/pabloplazx/pabloplazx/main/github_profile_banner.svg" alt="Pablo De La Plaza" width="100%" />
 </p>
 
 <p align="center">
@@ -12,7 +12,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,vite,tailwind,js,kotlin,android,docker,githubactions" alt="Stack Tecnológico" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,docker,githubactions&perline=6" alt="Backend" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,kotlin,android&perline=6" alt="Frontend & Mobile" />
   </a>
 </p>
 
@@ -32,21 +37,21 @@
 
 <p align="center">
   <a href="https://github.com/pabloplazx/musicreviews">
-    <img src="./musicreviews_mockup.svg" alt="MusicReviews Mockup" width="460" style="border-radius: 8px;" />
+    <img src="https://raw.githubusercontent.com/pabloplazx/pabloplazx/main/musicreviews_mockup.svg" alt="MusicReviews Mockup" width="460" style="border-radius: 8px;" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://zentimes.es">
-    <img src="./button_demo.svg" alt="Live Demo" height="38" />
+    <img src="https://img.shields.io/badge/Demo_en_Vivo-090D16?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Live Demo" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pabloplazx/musicreviews">
-    <img src="./button_backend.svg" alt="Backend Repo" height="38" />
+    <img src="https://img.shields.io/badge/Repo_Backend-090D16?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Backend Repo" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pabloplazx/musicreviews-frontend">
-    <img src="./button_frontend.svg" alt="Frontend Repo" height="38" />
+    <img src="https://img.shields.io/badge/Repo_Frontend-090D16?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Frontend Repo" />
   </a>
 </p>
 
@@ -55,11 +60,11 @@
 <h3 align="center">📈 Actividad & Racha</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contribuciones-107%20en%20el%20último%20año-090D16?style=flat-square&logo=github&logoColor=38bdf8" alt="Contribuciones" />
+  <img src="https://img.shields.io/badge/Contribuciones-107_en_el_último_año-090D16?style=flat-square&logo=github&logoColor=38bdf8" alt="Contribuciones" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Repositorios_Públicos-4-090D16?style=flat-square&logo=git&logoColor=38bdf8" alt="Repos" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Ubicación-Madrid%2C%20España-090D16?style=flat-square&logo=googlemaps&logoColor=38bdf8" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Ubicación-Madrid%2C_España-090D16?style=flat-square&logo=googlemaps&logoColor=38bdf8" alt="Ubicación" />
 </p>
 
 <p align="center">
@@ -72,10 +77,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-de-la-plaza-55a716386/">
-    <img src="./button_linkedin.svg" alt="LinkedIn" height="38" />
+    <img src="https://img.shields.io/badge/LinkedIn-090D16?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pabloplazx">
-    <img src="./button_github.svg" alt="GitHub" height="38" />
+    <img src="https://img.shields.io/badge/GitHub-090D16?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub" />
   </a>
 </p>
