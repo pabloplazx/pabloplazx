@@ -66,26 +66,16 @@
 
 <p align="center">
   <a href="https://zentimes.es">
-    <img src="https://img.shields.io/badge/Demo_en_Vivo-090D16?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/Demo_en_Vivo-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pabloplazx/musicreviews">
-    <img src="https://img.shields.io/badge/Repo_Backend-090D16?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Backend Repo" />
+    <img src="https://img.shields.io/badge/Repo_Backend-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Backend Repo" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pabloplazx/musicreviews-frontend">
-    <img src="https://img.shields.io/badge/Repo_Frontend-090D16?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Frontend Repo" />
+    <img src="https://img.shields.io/badge/Repo_Frontend-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Frontend Repo" />
   </a>
-</p>
-
----
-
-### 📈 Actividad & Racha
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pabloplazx&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true" height="150" alt="Stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=pabloplazx&hide_border=true&background=0b0f19&fire=38bdf8&ring=38bdf8&currStreakLabel=ffffff&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8" height="150" alt="Streak" />
 </p>
 
 ---
@@ -94,10 +84,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-de-la-plaza-55a716386/">
-    <img src="https://img.shields.io/badge/LinkedIn-090D16?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pabloplazx">
-    <img src="https://img.shields.io/badge/GitHub-090D16?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
