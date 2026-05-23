@@ -8,22 +8,57 @@
 
 ---
 
-<h3 align="center">🛠️ Stack Tecnológico</h3>
+### 👋 Sobre mí
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,docker,githubactions&perline=6" alt="Backend" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,kotlin,android&perline=6" alt="Frontend & Mobile" />
-  </a>
-</p>
+- 🎓 &nbsp; Estudiante de **CFGS DAM** en IES Rosa Chacel, Madrid
+- 🔭 &nbsp; Desarrollando [**MusicReviews**](https://github.com/pabloplazx/musicreviews) como TFG — Letterboxd para música
+- 💻 &nbsp; Me especializo en arquitecturas limpias: MVC, Repository Pattern, Service Layer
+- 🔐 &nbsp; Seguridad: JWT, Spring Security, verificación de email, refresh tokens
+- 🐳 &nbsp; Stack dockerizado con CI/CD automatizado en GitHub Actions
+- 🌐 &nbsp; Demo en vivo: [zentimes.es](https://zentimes.es)
+- 📫 &nbsp; Contacto: [LinkedIn](https://www.linkedin.com/in/pablo-de-la-plaza-55a716386/)
 
 ---
 
-<h3 align="center">🎯 Proyecto Destacado — <a href="https://github.com/pabloplazx/musicreviews" style="color: #ffffff; text-decoration: none;">MusicReviews (TFG)</a></h3>
+### 🛠️ Stack Tecnológico
+
+**Backend**
+
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java 21" /></code>
+&nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" /></code>
+&nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain.svg" title="Hibernate" /></code>
+&nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" /></code>
+&nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" title="Maven" /></code>
+
+**Frontend & Mobile**
+
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React 19" /></code>
+&nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" /></code>
+&nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" /></code>
+&nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" /></code>
+&nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" /></code>
+&nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" title="Android" /></code>
+
+**DevOps**
+
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" /></code>
+&nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHub Actions" /></code>
+&nbsp;
+<code><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" /></code>
+
+---
+
+### 🎯 Proyecto Destacado — [MusicReviews (TFG)](https://github.com/pabloplazx/musicreviews)
 
 <p align="center">
   <samp>Una aplicación web full-stack inspirada en <b>Letterboxd</b> dedicada al análisis y reseña de música. Implementa una arquitectura en capas modular y robusta para garantizar la mejor experiencia y escalabilidad.</samp>
@@ -37,7 +72,7 @@
 
 <p align="center">
   <a href="https://github.com/pabloplazx/musicreviews">
-    <img src="https://raw.githubusercontent.com/pabloplazx/pabloplazx/main/musicreviews_mockup.svg" alt="MusicReviews Mockup" width="460" style="border-radius: 8px;" />
+    <img src="https://raw.githubusercontent.com/pabloplazx/pabloplazx/main/musicreviews_mockup.svg" alt="MusicReviews Mockup" width="460" />
   </a>
 </p>
 
@@ -57,7 +92,7 @@
 
 ---
 
-<h3 align="center">📈 Actividad & Racha</h3>
+### 📈 Actividad & Racha
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pabloplazx&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true" height="150" alt="Stats" />
@@ -67,7 +102,7 @@
 
 ---
 
-<h3 align="center">📬 Conectar</h3>
+### 📬 Conectar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-de-la-plaza-55a716386/">
